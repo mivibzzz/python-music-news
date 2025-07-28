@@ -4,9 +4,7 @@ this app can be adjusted to take in other types of news too :) There is a plugin
 
 The python app needs python and all the requirements installed locally
 
-The exe file works a bit slower but it is all encapsulated within itself and you just double click and wait. That's all. 
-
-They are slightly different but do the same :) 
+to get an exe file (works a bit slower) run pyinstaller in the directory. That's all. 
 
 Have fun
 
