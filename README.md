@@ -1,5 +1,5 @@
 # python-music-news
-this app can be adjusted to take in other types of news too :) There is a plugin for wordpress that does the same also
+this app can be adjusted to take in other types of news too :) There is a plugin for wordpress that does the same also https://github.com/mivibzzz/wp-plugin-music-news
 ## There is a python app and a one click exe file. Pick one and use it
 
 The python app needs python and all the requirements installed locally
